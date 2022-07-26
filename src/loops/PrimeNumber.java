@@ -4,28 +4,37 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
 
-        int number = 7;
+        int number = -1;
 
-        boolean flag=false;
+      if (number>0){
+          boolean flag=false;
 
-        for (int i = 2; i < number; i++) {
+          for (int i = 2; i < number; i++) {
 
-            if(number%i==0){
+              if(number%i==0){
 
-                flag=true;
-                break;
-            }
+                  flag=true;
+                  break;
+              }
 
-        }
+          }
 
-        if(flag){
+          if(flag){
 
-            System.out.println("Not A prime number");
+              System.out.println("Not A prime number");
 
-        }
-        else {
-            System.out.println("number is a Prime Number");
-        }
-    }
+          }
+          else {
+              if(number!=0 && number!=1){
+                  System.out.println("number is a Prime Number");
+              }else {
+                  System.out.println("0 and 1 is not a Prime number ..");
+              }
+
+          }
+      }
+      }
 
 }
+
+
