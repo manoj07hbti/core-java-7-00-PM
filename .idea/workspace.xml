@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70eb2248-75c2-41d3-a4ea-5c682d5c9b87" name="Default Changelist" comment="" />
+    <list default="true" id="70eb2248-75c2-41d3-a4ea-5c682d5c9b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/basics/DemoClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/basics/DemoDay2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/DayofWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/DemoIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/DemoIfAndElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/DemoMultipleIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/DemoSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/IfExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/NOTOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/NestedIfString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/NestedIfandElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/OROperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/conditional_statements/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/DemoBreakContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/DemoDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/DemoWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/core-java-7-00-PM/loops/TableTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,38 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/DemoWhileLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/DemoDoWhile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/PrimeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/loops/DemoBreakContinue.java">
+        <entry file="file://$PROJECT_DIR$/src/arrays/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="537">
+              <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -88,13 +84,7 @@
         <option value="$PROJECT_DIR$/src/loops/DemoDoWhile.java" />
         <option value="$PROJECT_DIR$/src/loops/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/loops/DemoBreakContinue.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/arrays/Demo.java" />
       </list>
     </option>
   </component>
@@ -121,12 +111,6 @@
               <item name="core-java-7-30-PM" type="b2602c69:ProjectViewProjectNode" />
               <item name="core-java-7-30-PM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-java-7-30-PM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="core-java-7-30-PM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +145,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoBreakContinue">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Demo" />
+      <module name="core-java-7-00-PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.DemoBreakContinue" />
       <module name="core-java-7-00-PM" />
@@ -214,26 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.TableTwo" />
-      <module name="core-java-7-00-PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.DemoBreakContinue" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.DemoDoWhile" />
         <item itemvalue="Application.DemoWhileLoop" />
-        <item itemvalue="Application.TableTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +235,7 @@
       <workItem from="1657631677607" duration="6000" />
       <workItem from="1657631695314" duration="18000" />
       <workItem from="1657631721840" duration="4594000" />
-      <workItem from="1657852763689" duration="18598000" />
+      <workItem from="1657852763689" duration="20631000" />
     </task>
     <task id="LOCAL-00001" summary="CTRL+K -- COMMIT">
       <created>1657893391702</created>
@@ -330,11 +314,25 @@
       <option name="project" value="LOCAL" />
       <updated>1658844011146</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="files">
+      <created>1658926145247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658926145247</updated>
+    </task>
+    <task id="LOCAL-00013" summary="files">
+      <created>1658926223457</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658926223457</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23616000" />
+    <option name="totallyTimeSpent" value="25649000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -346,10 +344,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21764706" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23398693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -359,7 +357,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42463768" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47536233" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
@@ -381,7 +379,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21764706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23398693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,7 +388,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.59130436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42463768" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,7 +425,8 @@
     <MESSAGE value="Loops" />
     <MESSAGE value="While Loop" />
     <MESSAGE value="break and continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="break and continue" />
+    <MESSAGE value="files" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -602,17 +601,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/loops/DemoBreakContinue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
         </state>
       </provider>
     </entry>
