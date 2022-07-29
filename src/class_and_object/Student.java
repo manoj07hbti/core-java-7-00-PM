@@ -58,7 +58,7 @@ public class Student {
         obj2.setSection("Information Technology");
         // read the section
         System.out.println("Updated Section is "+obj2.getSection());
-
+        System.out.println("OBJ2 ---"+obj2.getName());
         Student obj3= new Student("Mukesh",20,"CS");
         System.out.println("Student name is "+obj3.name +" Age: "+obj3.age +" Section: "+obj3.section);
         // change the age
@@ -66,5 +66,8 @@ public class Student {
         obj3.setAge(25);
         //read age
         System.out.println("Updated Age is :"+obj3.getAge());
+
+        obj2.setName("RAHUL KUMAR");
+        System.out.println("OBJ2 ---"+obj2.getName());
     }
 }
