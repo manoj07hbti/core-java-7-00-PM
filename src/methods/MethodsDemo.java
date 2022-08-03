@@ -4,9 +4,9 @@ public class MethodsDemo {
 
     //Syntax : access_specifier return_type  method_name (parameter) {CODE..}
 
-    public void makeSquare(){
+    public void makeSquare(int number){
 
-        int number=8;
+
         System.out.println("Square of number is "+number*number);
     }
 
@@ -54,7 +54,7 @@ public class MethodsDemo {
     public static void main(String[] args) {
 
         MethodsDemo obj= new MethodsDemo();
-        obj.makeSquare();
+        obj.makeSquare(11);
 
         obj.checkEvenOdd();
 
