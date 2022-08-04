@@ -10,9 +10,7 @@ public class MethodsDemo {
         System.out.println("Square of number is "+number*number);
     }
 
-    public void checkEvenOdd(){
-
-        int number=8;
+    public void checkEvenOdd(int number){
 
         if(number%2==0){
             System.out.println("Number is Even number "+number);
@@ -56,7 +54,7 @@ public class MethodsDemo {
         MethodsDemo obj= new MethodsDemo();
         obj.makeSquare(11);
 
-        obj.checkEvenOdd();
+        obj.checkEvenOdd(4);
 
         obj.dayOfWeek();
     }
