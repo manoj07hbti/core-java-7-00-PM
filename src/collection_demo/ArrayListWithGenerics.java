@@ -1,6 +1,7 @@
 package collection_demo;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class ArrayListWithGenerics {
 
@@ -16,6 +17,11 @@ public class ArrayListWithGenerics {
         stringArrayList.add("Spring");
         stringArrayList.add("Cloud");
 
+        Scanner scanner= new Scanner(System.in);
+        System.out.println("Please enter string value for string Array list:");
+        String input =scanner.nextLine();
+
+        stringArrayList.add(input);
         //stringArrayList.add(11);  it is not allowing to store any other data
         //stringArrayList.add(5.8);
         return stringArrayList;
