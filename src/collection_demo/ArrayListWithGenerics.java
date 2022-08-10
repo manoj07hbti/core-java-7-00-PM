@@ -17,14 +17,29 @@ public class ArrayListWithGenerics {
         stringArrayList.add("Spring");
         stringArrayList.add("Cloud");
 
-        Scanner scanner= new Scanner(System.in);
-        System.out.println("Please enter string value for string Array list:");
-        String input =scanner.nextLine();
-
-        stringArrayList.add(input);
         //stringArrayList.add(11);  it is not allowing to store any other data
         //stringArrayList.add(5.8);
         return stringArrayList;
+    }
+
+    public  ArrayList<String> createListWithUserInput(){
+
+        ArrayList<String> list= new ArrayList<>();
+        Scanner scanner= new Scanner(System.in);
+        String choice="Y";
+
+        while (choice.equals("Y")){
+            System.out.println("Please Enter string Value for List ");
+            String input= scanner.nextLine();
+
+            list.add(input);
+
+            System.out.println("Press Y to continue or press any other key to exit .. ");
+            choice=scanner.nextLine();
+        }
+
+       return list;
+
     }
 
     // create a method which will create a Integer ArrayList
@@ -80,6 +95,12 @@ public class ArrayListWithGenerics {
         }
 
 
+        ArrayList<String>  userList= obj.createListWithUserInput();
+
+         for (String var: userList){
+
+             System.out.println("Printing user input list : "+var);
+         }
 
     }
 
