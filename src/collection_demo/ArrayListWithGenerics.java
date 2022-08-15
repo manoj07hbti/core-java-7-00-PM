@@ -15,6 +15,8 @@ public class ArrayListWithGenerics {
 
         stringArrayList.add("Java");
         stringArrayList.add("Spring");
+        stringArrayList.add("Spring");
+        stringArrayList.add("Spring");
         stringArrayList.add("Cloud");
 
         //stringArrayList.add(11);  it is not allowing to store any other data
