@@ -14,9 +14,16 @@ public class StudentHashSet {
         //create Object of Student
 
         Student student1= new Student("Raj",20,"CS");
+        System.out.println("Hashcode of S1:"+student1.hashCode());
+
         Student student2= new Student("Mukesh",23,"IT");
+        System.out.println("Hashcode of S2:"+student2.hashCode());
+
         Student student3= new Student("Rahul",20,"CS");
+        System.out.println("Hashcode of S3:"+student3.hashCode());
+
         Student student4= new Student("Raj",20,"CS");
+        System.out.println("Hashcode of S4:"+student4.hashCode());
 
         studentHashSet.add(student1);
         studentHashSet.add(student2);
