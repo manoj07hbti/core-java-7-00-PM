@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class DemohashMap {
 
-    public void createHashMap(){
+    public HashMap <Integer,String> createHashMap(){
 
         //SYNTAX: HashMap <DataType_key , DataType_Value> ObjName= new HashMap<>();
 
@@ -27,22 +27,22 @@ public class DemohashMap {
         System.out.println("after adding Duplicate key :Printing Map element at 2 index  "+ hashMap.get(2));
         // we can not have duplicate keys, if we add any duplicate key then it will override previous value
 
-     // printing entire HashMap ..  keySet(); : it returns HashSet of Keys
-        Set<Integer> keys= hashMap.keySet();// get all the key
 
 
-        for (Integer var : keys){
-
-
-            System.out.println("Printing Map in Loop .."+hashMap.get(var));
-        }
-
-
+        return hashMap;
     }
 
     public static void main(String[] args) {
 
         DemohashMap obj = new DemohashMap();
-        obj.createHashMap();
+        HashMap <Integer, String> hashMap= obj.createHashMap();
+
+        // printing entire HashMap ..  keySet(); : it returns HashSet of Keys
+        Set<Integer> keys= hashMap.keySet();// get all the key
+
+        for (Integer var : keys){
+
+            System.out.println("Printing Map in Loop .."+hashMap.get(var));
+        }
     }
 }
