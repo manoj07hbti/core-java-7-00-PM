@@ -41,7 +41,7 @@ public class StudentHashMap {
         for(Integer var: studentHashMap.keySet()){
 
 
-            System.out.println("Printing Student hashMap ..."+studentHashMap.get(var).getName());
+            System.out.println("Printing Student hashMap ..."+studentHashMap.get(var).getName() + studentHashMap.get(var).getAge());
         }
 
     }
