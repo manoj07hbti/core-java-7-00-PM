@@ -18,11 +18,16 @@ public class MethodOverLoading {
         System.out.println("This is M1 method with no parameter ..."+age +" Name: "+name);
     }
 
+    private void m5(){
+        System.out.println("This is my private method ");
+    }
 
     public static void main(String[] args) {
         MethodOverLoading obj= new MethodOverLoading();
         obj.m1();
         obj.m1(23);
         obj.m1(33,"Java");
+
+        obj.m5();
     }
 }

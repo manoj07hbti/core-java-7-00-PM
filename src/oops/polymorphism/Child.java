@@ -16,7 +16,7 @@ public class Child extends MethodOverriding {
 
         MethodOverriding obj= new MethodOverriding();
         obj.m1(); // called parent method
-
+        obj.m3();
         MethodOverriding obj1= new Child();
         obj1.m1(); // called child method
 
